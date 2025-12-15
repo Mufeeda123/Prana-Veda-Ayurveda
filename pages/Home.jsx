@@ -36,7 +36,7 @@ const Home = () => {
               <Button to="/contact" variant="primary" className="bg-secondary text-primary hover:bg-white hover:text-primary border-none">
                 Book Consultation
               </Button>
-              <Button to="/treatments" variant="white" className="bg-transparent text-white border-white hover:bg-white hover:text-primary">
+              <Button to="/treatments" variant="primary" className="bg-secondary text-primary hover:bg-white hover:text-primary border-none">
                 Explore Treatments
               </Button>
             </div>
@@ -136,3 +136,4 @@ const Home = () => {
 };
 
 export default Home;
+
